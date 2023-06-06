@@ -151,7 +151,7 @@ public class Bank {
 			}
 			if(temp == listCustomer.size()) {
 				System.out.println("CCCD khong trung khop, vui long nhap lai:");
-				id = sc.nextLine();
+				CCCD = sc.nextLine();
 			} else {
 				break;
 			}
